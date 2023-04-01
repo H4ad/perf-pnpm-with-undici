@@ -63,3 +63,7 @@ With `undici`, the time is always consistent:
 So I don't know if I did something wrong in the `default fetcher` configuration or if I'm missing something with `undici`.
 
 That's why I created this repository, just to share what I found to see if anyone can confirm or deny what I found.
+
+### Edit
+
+After more runs, `default fetcher` start to perform equal to `undici`, so I think we have no advantage using `undici`.
