@@ -1,0 +1,5 @@
+*.cpuprofile
+cache
+cache_tarball
+coverage
+node_modules
